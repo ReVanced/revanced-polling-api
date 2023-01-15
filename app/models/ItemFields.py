@@ -11,3 +11,11 @@ class LogoFields(BaseModel):
     filename: str
     gdrive_direct_url: str
 
+class LogoRoot(BaseModel):
+    """Implements the root for the logos.
+    
+    Args:
+        BaseModel (pydantic.BaseModel): BaseModel from pydantic
+    """
+    
+    logos: list[LogoFields]
