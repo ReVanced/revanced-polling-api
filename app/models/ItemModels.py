@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-from app.models.ItemFields import LogoFields
+from app.models.ItemFields import LogoRoot
 
 class ItemModel(BaseModel):
     """Implements the model for the items.
@@ -8,5 +8,5 @@ class ItemModel(BaseModel):
         BaseModel (pydantic.BaseModel): BaseModel from pydantic
     """
     
-    __root__: dict[str, LogoFields]
+    __root__: dict[str, LogoRoot]
 

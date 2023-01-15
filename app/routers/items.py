@@ -17,9 +17,14 @@ async def logos(request: Request, response: Response) -> dict:
     Returns:
         json: list of logos
             =>  username: {
-                id,
-                filename,
-                gdrive_direct_url
+                    logos: [
+                        {
+                            id,
+                            filename,
+                            gdrive_direct_url
+                        },
+                        ...
+                    ]
                 }
     """
     
