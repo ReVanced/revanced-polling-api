@@ -8,7 +8,6 @@ class LogoFields(BaseModel):
     """
     
     id: str
-    filename: str
     gdrive_direct_url: str
 
 class LogoRoot(BaseModel):
