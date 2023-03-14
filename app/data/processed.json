@@ -1,482 +1,397 @@
-{
-    "ReVanced#0000":
+[
+  [
     {
-        "logos":
-        [
-            {
-                "id": "014e0e6e-9910-11ed-a8fc-0242ac120002",
-                "gdrive_direct_url": "https://bafybeicgjkp7kupxect7pofhwtmifw3aibetbxraofns7gjjwozhby3kvy.ipfs.w3s.link/revanced-logo.svg"
-            }
-        ]
-    },
-    "ech0#8933":
-    {
-        "logos":
-        [
-            {
-                "id": "1BZXXTEJD_dKyw91X1mgGPDiFGEDQvDqg",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreibukirnzdad6sa6455dgv2vstxqyakwe2pxtr5fim7gikajpjq72y"
-            },
-            {
-                "id": "1aIOtkuh1JidUGmVXrSINv8GPpFqoW2-S",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreicyfuvfmu434gadx4yn3srwapxzazqfjc5peppf4olzjjdtaugqhq"
-            },
-            {
-                "id": "1G8PtHKKrTtpRGYKfseV_6MmmV2T7EG_D",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiehblql6zlgcjpl7ktg6wc3xrthtkzrbj7um2dfo3ep256hq723ja"
-            },
-            {
-                "id": "1X8pjzmNrxwx7HrURao9Uh-sQZ9ybiXLF",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiboeouxt6cn4lsrilmbtbw54tcjv4qyraxxyrftyh33fygb2tp7am"
-            }
-        ]
-    },
-    "NaokoShoto#9083":
-    {
-        "logos":
-        [
-            {
-                "id": "163fy1gikw6Dc_tnzwUATHQ2eOjSQxZdP",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreidljcnevxtmp6y54gxvxj4mrzrmbfdhbnfprcf4ssvr22aacwdrwy"
-            },
-            {
-                "id": "863af2f9abb446e9afead9aaf66980d0",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreih2sopkcbdeqhlndc5lbiraeik4pzvixupepxvnpevdmfcylgesru"
-            },
-            {
-                "id": "bfc92e9a727043798c9a594c89926067",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreih2sopkcbdeqhlndc5lbiraeik4pzvixupepxvnpevdmfcylgesru"
-            },
-            {
-                "id": "d6021fc2cfe24e8684f27938dcd8936a",
-                "gdrive_direct_url": "https://bafybeidykcrw5qyyedvb4rx4jvipwdhm76ngl6iy2a2xulxnif2nugodf4.ipfs.w3s.link/BVariant%204.svg"
-            },
-            {
-                "id": "03ad15a1059a49db97e1bfc10cd41360",
-                "gdrive_direct_url": "https://bafybeidsk7ssqw3g3yqp3eqflyweulgwx42zayujugu3k2nb6q3drk6smy.ipfs.w3s.link/BVariant%205.svg"
-            },
-            {
-                "id": "12sfnrmzGVc9lDXipA-WPL2_Fefs8LQKq",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiedxlwnp5tc3xed6e55dojsd4r4vffit5qg6cb4ecjjnzeebj5nha"
-            },
-            {
-                "id": "1vdNEulmbLrEK17hLwD37GUdpc1EC0Kd7",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreib4i5slefo6be4eygssnimrfs4cv64grx7pvfa5esw7ldojosgb4y"
-            },
-            {
-                "id": "1a38d45b81aa4a3b8920292a645f8e6b",
-                "gdrive_direct_url": "https://bafybeigcamgiwanofxm7qqrrh32d667e22azxg6hut7txkrdzswo7u543y.ipfs.w3s.link/WVariant%203.svg"
-            },
-            {
-                "id": "f4780bf81a924102a5cd74a14e484006",
-                "gdrive_direct_url": "https://bafybeihhgcy26j6dpgjnify6xzpqddq62gfmgnjht2bh3bautkeoad2dkq.ipfs.w3s.link/WVariant%204.svg"
-            },
-            {
-                "id": "356430db79de4e37a65a28d77ecf4dee",
-                "gdrive_direct_url": "https://bafybeiddbg4gfbkryzi4ir676vjorh6aocmopp354o3qj73hmbgkhedqb4.ipfs.w3s.link/WVariant%205.svg"
-            }
-        ]
-    },
-    "rmgnvn#6655":
-    {
-        "logos":
-        [
-            {
-                "id": "1IRXBSJphILHitrF-h_zEuNRalYxPMEzw",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreigfv7q6yry3ohxtiam5mgfnq24ktk64yel4gugs2poap7tkoixkby"
-            }
-        ]
-    },
-    "Leech (ಥ ͜ʖಥ) ia #9195":
-    {
-        "logos":
-        [
-            {
-                "id": "17YlvGXQYgXruPmoQehWfsi-0j94hqVjk",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafybeihlzbtqpoemai6mnhkritu33uf73jwmmvgznzjpx6ulusk3tgnlai"
-            },
-            {
-                "id": "11qkGiTVf0cCgD8Qd_DK8oOtKPtxTpaHK",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreibjnrubxfdnn3l5qxmuauvf6fblxb3ur2eisyfdluri7re6i2gczq"
-            }
-        ]
-    },
-    "Nightcrawler#6054":
-    {
-        "logos":
-        [
-            {
-                "id": "1sIprGws2fTja95wvH2yBrg6FZT9b8Eo6",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreihty7odh73xxboxduzwevo6pk72mp3fbat2c6mskei626lnerj4au"
-            }
-        ]
-    },
-    "SpeedX [AFK],#6988":
-    {
-        "logos":
-        [
-            {
-                "id": "1cvEi0UaoNJ2j50SrV6dMcBiS_WBtgwYA",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafybeidryuippjtnk22kke7ffgwuys5j7k46wxpegiridiogw5j2tk6c64"
-            }
-        ]
-    },
-    "Joker#3692":
-    {
-        "logos":
-        [
-            {
-                "id": "1tZC-6CzsxFVjmIMuHJCzHhdw7ySJSke0",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreidtwaez5dvqkpfwpo2mp5jb4spskfrrcuhvvctmzklpzftopwhif4"
-            }
-        ]
-    },
-    "D34DC3N73R#1325":
-    {
-        "logos":
-        [
-            {
-                "id": "1AEjrqNM82vWz_aaNpSCotXP_m5m8J4CR",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafybeiagpdcnmttgtuw3ep667oc5ushdqioiztacklvpzgzdsyu653qkca"
-            }
-        ]
-    },
-    "JhCo(미응)#5446":
-    {
-        "logos":
-        [
-            {
-                "id": "17sOv7fxurXqkHFSZFAHDlkFKsZhk4t3K",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafybeiayxnt4zhbroicaukg53kxkt7lxuujlahiphf2z44uvomg6vcyzbq"
-            }
-        ]
-    },
-    "GreenMan36#0633":
-    {
-        "logos":
-        [
-            {
-                "id": "1c7Mk7qcrP2DZ9BVsr4ASf-EKeWQfVneT",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreib4vd3rlr5zbskeyupdtpx23sbzhkz6pbi36cjnjoq6zwoca3lhnq"
-            },
-            {
-                "id": "1BVlKSOGoQp55Tctb0VL_ycJfy6ShbwbM",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreid6utv76xzw4cigvo6t6j4blrn44myvxb4sgmtncycjbs4emgvh5m"
-            },
-            {
-                "id": "1RcdvJBruIAzbN6yvLBH3PQQToTUC0bCO",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiav36pwusgvjophhgq5lspkjy3u55r555mdw4fwti5gpheiewy75u"
-            },
-            {
-                "id": "1umG4tYiPFsuYRaAWw0gJLNxOfaQUK0Gh",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreidnqmdkkurhqqdpvsaewj4hzig4ewiroq42wdcxnb5bctpobc2g2y"
-            }
-        ]
-    },
-    "noah#0459":
-    {
-        "logos":
-        [
-            {
-                "id": "1wnTX1CuMdf7ocjBFsCYFk7QGoyEj7zYq",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreib3fmq5yi5e6sak22niopml2dtaywv7gdml2c4qt55jmdiipny26q"
-            }
-        ]
-    },
-    "GlitchyPSI#5904":
-    {
-        "logos":
-        [
-            {
-                "id": "1dhMSb6_KdNGrYhjD33bb8QnoetLdslEZ",
-                "gdrive_direct_url": "https://bafybeiauukktt5wfgc6imaqcvjxhuzk7vyo5shejyvwh5trmf2i25twf74.ipfs.w3s.link/revanced_logos.png"
-            }
-        ]
-    },
-    "Stazor#6633":
-    {
-        "logos":
-        [
-            {
-                "id": "1aHOUKpi8x2SkctQXFITgH9CEjf-J9Fib",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreid4ye6mdcepzo5jpu6yfw376dvkmwbhvxuuw5lbfnplx52ic5xwgy"
-            },
-            {
-                "id": "1Mr2hOZJ9VR-FmAV6Da_I-3xxSFvSu9cx",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreicnncqh4dntkl2yopnu3xmuebghner5hmwttqetz7o4hkeey7lkbu"
-            }
-        ]
-    },
-    "jalaybeewala#2298":
-    {
-        "logos":
-        [
-            {
-                "id": "14wAcERy9EXpasjt5AxNAxDGHIXz6S27d",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreifitbgy23pz6wfm7x66jqvbvv4uxf47toy7din6ezevgguws7rhqu"
-            }
-        ]
-    },
-    "Johnny#3665":
-    {
-        "logos":
-        [
-            {
-                "id": "1U5I9ELj9NB62jyzN6SZQEbwl_B4OVCKI",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiddkablv2gjmffaaveumqvsnt6rgzvg3cbu4twrptijjyzlakjpme"
-            }
-        ]
-    },
-    "Grabstertv#3720":
-    {
-        "logos":
-        [
-            {
-                "id": "1IMAVNVqeLTucTDtMdk7bzXkMSZhtMwmj",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiaqfxbgcqgvvk44rezr4johesmsxppqxz6vddcczzyaid55sy3i5q"
-            }
-        ]
-    },
-    "afn#3842":
-    {
-        "logos":
-        [
-            {
-                "id": "1KcwbEaXgpefRteX5NjpyD35bQQfS0ZHL",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiexnjzygduriv4vzwtjo5a5ows4ym2wgmlqddmgaglpmastfh6hxm"
-            }
-        ]
-    },
-    "I DON'T USE HAY OTHER":
-    {
-        "logos":
-        [
-            {
-                "id": "1wgFzQ9bVCn2d9wRmOyZZwTHQmIMsdvUI",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreib663r63rlzyjq4dkaoq7orkrklipq44mocbawgzbnkejvspffn2a"
-            }
-        ]
-    },
-    "vlu_hp#3415":
-    {
-        "logos":
-        [
-            {
-                "id": "18KdlQv2j6eVmCqDPrMS7byQvpebAQrIR",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiaokikrzw7wltvamupq2g6kmexiacdqrauwrpwit6t2ngd72ng6kq"
-            },
-            {
-                "id": "1av7-NsfQDu3ZKHWIcpFFxpAzV19TkBUE",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiapzzlsmnycxoa7esplhx3stirkjtujyypvm7bytyqyltoidgkd2q"
-            },
-            {
-                "id": "1QxlJPhw0Ln_nq7RRuSV_HgZY0S-if3uC",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreib33o5zq2fe3w5bewk66svf7dzl3uox5er7sjudica5m24mlhct4u"
-            },
-            {
-                "id": "1SvfZ8VRLDSfmeCb_9YIrRQV7mZeMzrdm",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreidxngb7g73xizr72jhllusiphpely73l6dkxhqypdqvespm5c37f4"
-            }
-        ]
-    },
-    "BrandgrandReal#3131":
-    {
-        "logos":
-        [
-            {
-                "id": "1NOeknbToIDHnyDe_ZCLiAfygqAcOE6l_",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreidvm25fveedurbi6m2hh4oqur7qfhdzmqoa3oyrny2i6gii6bpyb4"
-            }
-        ]
-    },
-    "Exon#9423 or telegram @exonxo":
-    {
-        "logos":
-        [
-            {
-                "id": "1tHcir0R_MecIlRJrXCJMN86SNW4BM-CP",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreie3lbkcmaikdj4jcs5jjsuial2mdalb7tvpjxmmea4alqseoentey"
-            },
-            {
-                "id": "1uMjQqF8Oj5yKDfbtQeWN45qT3Xauq44l",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreihemn3ahugpu7dzcjxxfrc2qi25nkjclavru3ss4jo6ef7ezf2a4m"
-            }
-        ]
-    },
-    "Jublingo#9431":
-    {
-        "logos":
-        [
-            {
-                "id": "10F_kY0v85U2qsAWXxhC9miv5lM_QMI9M",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreidux2ii2fi5d6mc3gul6evwimoepcdxqfo6ivcwywnfaqjf7ljedq"
-            },
-            {
-                "id": "1vFS1XMTUjcu9if-m1sKbr8n9PPMzUw5Z",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreignloo4rwnzuppzuivltaabl4h3yhadj3r5bofihdwobkwoovfkeq"
-            },
-            {
-                "id": "13bjumU1kpV9dWjLSc21UsGqirQbvB9hb",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreihgmnhvrniu4cukqw5v5m4cgydaciwgkniwkrnjz7d5uwqlgj2nre"
-            },
-            {
-                "id": "14w9ye4TIPishcorcBKxD6C3C83Og0odr",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreibatyhfgnrnln5w7df7symrgih2udtga5gajlrytoxax5bfknn54i"
-            }
-        ]
-    },
-    "afn#7153":
-    {
-        "logos":
-        [
-            {
-                "id": "1-71UcCVUTjKCYEdRBNICwXsh6C4_GBfj",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreifcdzu5ijt3rqitncnjgecedrkvludfxcpts5o7hyw46vkeb27iqy"
-            }
-        ]
-    },
-    "Discord: Conobi#0952":
-    {
-        "logos":
-        [
-            {
-                "id": "1vdILKxfqQpm9G_FeopQphcZZLqFavIGg",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreifs7q7c6r3jsued35aj6lpeptdex3wgdjbl2nnx4zfwrscicpkrcq"
-            }
-        ]
-    },
-    "ArdeeAsher":
-    {
-        "logos":
-        [
-            {
-                "id": "1TLXIhJcsM6GjvIr3-uxttUOqjqVSzrp6",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreic2bxwe55v2chmzfpo5wl3tq7eei4thv6rxfyhikg4l72agiarr2y"
-            },
-            {
-                "id": "1Usgac1Goo6XFkKupeIUszvy8tAECtGVn",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreifp7iow2zpeuat62nsml4gsupplmnwrv2vqfe3amholzncdgjwnca"
-            }
-        ]
-    },
-    "itsmeali#1350":
-    {
-        "logos":
-        [
-            {
-                "id": "1a02uMqBe6NrQzGmtmfV-QqNHegN1vaJD",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiepbyv2mylefjbm7yybblnia53ac3p5oh3tdsxzuz6kvjkawhcan4"
-            }
-        ]
-    },
-    "deciphershie#8809":
-    {
-        "logos":
-        [
-            {
-                "id": "1EQf003FGbdcw4SqZuNENUeizwL6f1WSp",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreidhokg473b6b3velv5uvxjweayjktjfmljtbv55i6l3fqwdz5caiy"
-            }
-        ]
-    },
-    "vision#2313":
-    {
-        "logos":
-        [
-            {
-                "id": "1diS_3XNjS-UAbc6G8rcFfxk0QKBiVRi2",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiexyky4nxaw5wtydt7oxw56ciger2fvnttehojh4ydtkxbqselpwi"
-            }
-        ]
-    },
-    "junior Feuerwolf#0941":
-    {
-        "logos":
-        [
-            {
-                "id": "1fMwOLDee7ZHZKxyENeqpzx9giNDMxoMy",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreigsbiypodecy3oevwupx6ftvinhusbz3uintt4yzypku75676ptl4"
-            }
-        ]
-    },
-    "cyriotic3#6194":
-    {
-        "logos":
-        [
-            {
-                "id": "1ILpPM2zpNLRGQqmXf-rtFEnFDFEnpb1H",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreifzpeushlawip4uqbfcm5hcjo44ozs3s7ptjhci3nccrs37gqg5fe"
-            },
-            {
-                "id": "1LMxkE-3F0Q3VK2CG92fFwwJRfD3zk6ch",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreignk72fv5cmszptayfdnzofrj36l4ihf2t4ifs6nmlounbkoomkdm"
-            },
-            {
-                "id": "1RuPq_nHrIW2OW-TlPx3HMdUUkaOm729V",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiaee75vv3kywdin7miffrrarkf3qi7trf2mlgq74ftymnxv3viyim"
-            }
-        ]
-    },
-    "StaticNebula26#4141":
-    {
-        "logos":
-        [
-            {
-                "id": "196-WtYfmMmsjHwb3KCs8UZN-zDR0zSkp",
-                "gdrive_direct_url": "https://bafybeiezf3dgi5ue22qy6htnibije7u72wz6qs7iwuul4kto5fqqrewbqi.ipfs.w3s.link/ReVancedColorsLogo%20-%20Static%20Nebula.svg"
-            }
-        ]
-    },
-    "emsigo#6193":
-    {
-        "logos":
-        [
-            {
-                "id": "1jQbn_9nobk-LhxCJGwSaYZWGGKqjMLTt",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreidyi63o7zu6qvzkgb3gxpew72mnd3csbophtsdq3hy32bzdzkwzvy"
-            }
-        ]
-    },
-    "artmark@airmail.cc":
-    {
-        "logos":
-        [
-            {
-                "id": "1DF4gfHbyRNkQWydwvkU2nZv4faNK09vI",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreihenxz3uoovqruqeltnksymg6ky3doif4zs4td5kj7ry3ozj7lb54"
-            }
-        ]
-    },
-    "deepwaters#3598":
-    {
-        "logos":
-        [
-            {
-                "id": "1PWtBZdhpG4X6bNUASwimid1h3ag7CKa0",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreifhfe7lpidoqq3tdfwd6nb2d7pzp4gf5iahwqqs5f7q2wke6gbmjq"
-            },
-            {
-                "id": "1lcepHs1SIsNcrXSBxlB2Xxck8dpc_b06",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreihjduvajyvin5pppgztfqgc2qn2rmq4hleduio5n5uxs5lytv7kvm"
-            },
-            {
-                "id": "1mPTBBsd1woHelDlQZJyg_lulIdcVHuLf",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiegvqhcuwaqlsy5dutuk2gqv3favubquaxgpmirdm6t5rankewwiq"
-            },
-            {
-                "id": "1aZ5gG26ey60rrQ4Q3DKqyVnXRNizWmCu",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreidxtmsebw7fpxp7he2dtttqgc75a7uihesvuydxlgdlxdqce24hxy"
-            }
-        ]
-    },
-    "afn#0128":
-    {
-        "logos":
-        [
-            {
-                "id": "1iT-iee3jcnJtz-v6BSLEcqJNK8p-E45n",
-                "gdrive_direct_url": "https://w3s.link/ipfs/bafkreiazyzikreodaydx4u23mxeetokrfeldqjutam7pcrpwwe43ua5a6m"
-            }
-        ]
+      "id": "014e0e6e-9910-11ed-a8fc-0242ac120002",
+      "logo_direct_url": "https://bafybeicgjkp7kupxect7pofhwtmifw3aibetbxraofns7gjjwozhby3kvy.ipfs.w3s.link/revanced-logo.svg",
+      "optimized_direct_url": null
     }
-}
+  ],
+  [
+    {
+      "id": "1BZXXTEJD_dKyw91X1mgGPDiFGEDQvDqg",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreibukirnzdad6sa6455dgv2vstxqyakwe2pxtr5fim7gikajpjq72y",
+      "optimized_direct_url": "https://bafybeibsxwltsh53oyfynhgtrayn5swxp2w5goaxidvkb3h64voqlwh5o4.ipfs.w3s.link/submission_result.webp"
+    },
+    {
+      "id": "1aIOtkuh1JidUGmVXrSINv8GPpFqoW2-S",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreicyfuvfmu434gadx4yn3srwapxzazqfjc5peppf4olzjjdtaugqhq",
+      "optimized_direct_url": "https://bafkreicyfuvfmu434gadx4yn3srwapxzazqfjc5peppf4olzjjdtaugqhq.ipfs.w3s.link/"
+    },
+    {
+      "id": "1G8PtHKKrTtpRGYKfseV_6MmmV2T7EG_D",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiehblql6zlgcjpl7ktg6wc3xrthtkzrbj7um2dfo3ep256hq723ja",
+      "optimized_direct_url": "https://bafkreiehblql6zlgcjpl7ktg6wc3xrthtkzrbj7um2dfo3ep256hq723ja.ipfs.w3s.link/"
+    },
+    {
+      "id": "1X8pjzmNrxwx7HrURao9Uh-sQZ9ybiXLF",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiboeouxt6cn4lsrilmbtbw54tcjv4qyraxxyrftyh33fygb2tp7am",
+      "optimized_direct_url": "https://bafybeifubpxnfqni6tdvsyhncumhol53x6v2hcfm5ne4nawaunp5o7dtdi.ipfs.w3s.link/submittion_result_1.webp"
+    }
+  ],
+  [
+    {
+      "id": "163fy1gikw6Dc_tnzwUATHQ2eOjSQxZdP",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreidljcnevxtmp6y54gxvxj4mrzrmbfdhbnfprcf4ssvr22aacwdrwy",
+      "optimized_direct_url": ""
+    },
+    {
+      "id": "863af2f9abb446e9afead9aaf66980d0",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreih2sopkcbdeqhlndc5lbiraeik4pzvixupepxvnpevdmfcylgesru",
+      "optimized_direct_url": null
+    },
+    {
+      "id": "bfc92e9a727043798c9a594c89926067",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreih2sopkcbdeqhlndc5lbiraeik4pzvixupepxvnpevdmfcylgesru",
+      "optimized_direct_url": null
+    },
+    {
+      "id": "d6021fc2cfe24e8684f27938dcd8936a",
+      "logo_direct_url": "https://bafybeidykcrw5qyyedvb4rx4jvipwdhm76ngl6iy2a2xulxnif2nugodf4.ipfs.w3s.link/BVariant%204.svg",
+      "optimized_direct_url": null
+    },
+    {
+      "id": "03ad15a1059a49db97e1bfc10cd41360",
+      "logo_direct_url": "https://bafybeidsk7ssqw3g3yqp3eqflyweulgwx42zayujugu3k2nb6q3drk6smy.ipfs.w3s.link/BVariant%205.svg",
+      "optimized_direct_url": null
+    },
+    {
+      "id": "12sfnrmzGVc9lDXipA-WPL2_Fefs8LQKq",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiedxlwnp5tc3xed6e55dojsd4r4vffit5qg6cb4ecjjnzeebj5nha",
+      "optimized_direct_url": null
+    },
+    {
+      "id": "1vdNEulmbLrEK17hLwD37GUdpc1EC0Kd7",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreib4i5slefo6be4eygssnimrfs4cv64grx7pvfa5esw7ldojosgb4y",
+      "optimized_direct_url": null
+    },
+    {
+      "id": "1a38d45b81aa4a3b8920292a645f8e6b",
+      "logo_direct_url": "https://bafybeigcamgiwanofxm7qqrrh32d667e22azxg6hut7txkrdzswo7u543y.ipfs.w3s.link/WVariant%203.svg",
+      "optimized_direct_url": null
+    },
+    {
+      "id": "f4780bf81a924102a5cd74a14e484006",
+      "logo_direct_url": "https://bafybeihhgcy26j6dpgjnify6xzpqddq62gfmgnjht2bh3bautkeoad2dkq.ipfs.w3s.link/WVariant%204.svg",
+      "optimized_direct_url": null
+    },
+    {
+      "id": "356430db79de4e37a65a28d77ecf4dee",
+      "logo_direct_url": "https://bafybeiddbg4gfbkryzi4ir676vjorh6aocmopp354o3qj73hmbgkhedqb4.ipfs.w3s.link/WVariant%205.svg",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1IRXBSJphILHitrF-h_zEuNRalYxPMEzw",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreigfv7q6yry3ohxtiam5mgfnq24ktk64yel4gugs2poap7tkoixkby",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "17YlvGXQYgXruPmoQehWfsi-0j94hqVjk",
+      "logo_direct_url": "https://w3s.link/ipfs/bafybeihlzbtqpoemai6mnhkritu33uf73jwmmvgznzjpx6ulusk3tgnlai",
+      "optimized_direct_url": "https://bafybeiba3o3rhzcyavw7yqkv2aeheuobyekf27wzlwnvwdz6znunnhod4u.ipfs.w3s.link/submittion_result.webp"
+    },
+    {
+      "id": "11qkGiTVf0cCgD8Qd_DK8oOtKPtxTpaHK",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreibjnrubxfdnn3l5qxmuauvf6fblxb3ur2eisyfdluri7re6i2gczq",
+      "optimized_direct_url": "https://bafybeibyp3qqusadghnv3ibhhu3hipccyl3z5mph625322nqf2fnsqchhy.ipfs.w3s.link/submittion_result.webp"
+    }
+  ],
+  [
+    {
+      "id": "1sIprGws2fTja95wvH2yBrg6FZT9b8Eo6",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreihty7odh73xxboxduzwevo6pk72mp3fbat2c6mskei626lnerj4au",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1cvEi0UaoNJ2j50SrV6dMcBiS_WBtgwYA",
+      "logo_direct_url": "https://w3s.link/ipfs/bafybeidryuippjtnk22kke7ffgwuys5j7k46wxpegiridiogw5j2tk6c64",
+      "optimized_direct_url": "https://bafybeihjqgu3ygypx64mr3rnwcaddblit7mu6odbwrqjz5m7pcimqdn3gq.ipfs.w3s.link/submittion_result.webp"
+    }
+  ],
+  [
+    {
+      "id": "1tZC-6CzsxFVjmIMuHJCzHhdw7ySJSke0",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreidtwaez5dvqkpfwpo2mp5jb4spskfrrcuhvvctmzklpzftopwhif4",
+      "optimized_direct_url": "https://bafybeiao5jhiiaxtcqasp7idonmw3sdeotayrmdocwwahdky6xs2gyitka.ipfs.w3s.link/submittion_result.webp"
+    }
+  ],
+  [
+    {
+      "id": "1AEjrqNM82vWz_aaNpSCotXP_m5m8J4CR",
+      "logo_direct_url": "https://w3s.link/ipfs/bafybeiagpdcnmttgtuw3ep667oc5ushdqioiztacklvpzgzdsyu653qkca",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "17sOv7fxurXqkHFSZFAHDlkFKsZhk4t3K",
+      "logo_direct_url": "https://w3s.link/ipfs/bafybeiayxnt4zhbroicaukg53kxkt7lxuujlahiphf2z44uvomg6vcyzbq",
+      "optimized_direct_url": "https://bafybeihsk5eoctxzhxnq3exxgi3wkqmzcnkvd34pd3emnopkmzh2doefda.ipfs.w3s.link/submittion_result.webp"
+    }
+  ],
+  [
+    {
+      "id": "1c7Mk7qcrP2DZ9BVsr4ASf-EKeWQfVneT",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreib4vd3rlr5zbskeyupdtpx23sbzhkz6pbi36cjnjoq6zwoca3lhnq",
+      "optimized_direct_url": "https://bafybeifrh4nz7c7cpssihf5xd7cnhun3wdz43oqjfwsyeloswagmughbbm.ipfs.w3s.link/submittion_result.webp"
+    },
+    {
+      "id": "1BVlKSOGoQp55Tctb0VL_ycJfy6ShbwbM",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreid6utv76xzw4cigvo6t6j4blrn44myvxb4sgmtncycjbs4emgvh5m",
+      "optimized_direct_url": "https://bafybeihp3uatepebo35s2kauznc4pzqb6rcwfezzfyjzse6ifq53hu7n7i.ipfs.w3s.link/submittion_result.webp"
+    },
+    {
+      "id": "1RcdvJBruIAzbN6yvLBH3PQQToTUC0bCO",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiav36pwusgvjophhgq5lspkjy3u55r555mdw4fwti5gpheiewy75u",
+      "optimized_direct_url": "https://bafybeigvmke66aehaprgmwdyo3sqackwnuunkjtzaovhn3spizvrdlvlqu.ipfs.w3s.link/submittion_result.webp"
+    },
+    {
+      "id": "1umG4tYiPFsuYRaAWw0gJLNxOfaQUK0Gh",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreidnqmdkkurhqqdpvsaewj4hzig4ewiroq42wdcxnb5bctpobc2g2y",
+      "optimized_direct_url": "https://bafybeih57t2xvzgmkjcbmzl47bzsv73kgwimzlv66mw5uznxple47w5xoi.ipfs.w3s.link/submittion_result.webp"
+    }
+  ],
+  [
+    {
+      "id": "1dhMSb6_KdNGrYhjD33bb8QnoetLdslEZ",
+      "logo_direct_url": "https://bafybeiauukktt5wfgc6imaqcvjxhuzk7vyo5shejyvwh5trmf2i25twf74.ipfs.w3s.link/revanced_logos.png",
+      "optimized_direct_url": "https://bafybeibyfsnaq6qqyq4q64nm4sc5zo4mfbpdfhpo2got3hk7i3uc7w6byq.ipfs.w3s.link/submittion_result.webp"
+    }
+  ],
+  [
+    {
+      "id": "1aHOUKpi8x2SkctQXFITgH9CEjf-J9Fib",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreid4ye6mdcepzo5jpu6yfw376dvkmwbhvxuuw5lbfnplx52ic5xwgy",
+      "optimized_direct_url": "https://bafybeif545fc6ed5avt3mgzuzhbimde2fesa6gf623qwuyg3ri6icin25i.ipfs.w3s.link/submittion_result.webp"
+    },
+    {
+      "id": "1Mr2hOZJ9VR-FmAV6Da_I-3xxSFvSu9cx",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreicnncqh4dntkl2yopnu3xmuebghner5hmwttqetz7o4hkeey7lkbu",
+      "optimized_direct_url": "https://bafybeiah3iaajgtavbtsw2ujmgxbf4vxcwdvbwpaelsyaayqyuk6zifcya.ipfs.w3s.link/submittion_result_1.webp"
+    }
+  ],
+  [
+    {
+      "id": "14wAcERy9EXpasjt5AxNAxDGHIXz6S27d",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreifitbgy23pz6wfm7x66jqvbvv4uxf47toy7din6ezevgguws7rhqu",
+      "optimized_direct_url": "https://bafybeiguvgta5cdpassqo5dvrcrfmsx7y2t5qemddubk57cgggfwivcari.ipfs.w3s.link/submittion_result_2.webp"
+    }
+  ],
+  [
+    {
+      "id": "1U5I9ELj9NB62jyzN6SZQEbwl_B4OVCKI",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiddkablv2gjmffaaveumqvsnt6rgzvg3cbu4twrptijjyzlakjpme",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1IMAVNVqeLTucTDtMdk7bzXkMSZhtMwmj",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiaqfxbgcqgvvk44rezr4johesmsxppqxz6vddcczzyaid55sy3i5q",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1KcwbEaXgpefRteX5NjpyD35bQQfS0ZHL",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiexnjzygduriv4vzwtjo5a5ows4ym2wgmlqddmgaglpmastfh6hxm",
+      "optimized_direct_url": "https://bafybeihwb7dqbmlzg4ahxbq3fecdxhe4n3e64jtnn6jlgjv4itjk3p6ane.ipfs.w3s.link/submittion_result.webp"
+    }
+  ],
+  [
+    {
+      "id": "1wgFzQ9bVCn2d9wRmOyZZwTHQmIMsdvUI",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreib663r63rlzyjq4dkaoq7orkrklipq44mocbawgzbnkejvspffn2a",
+      "optimized_direct_url": "https://bafybeifskaiyzhnef3e76ijcbqxr6hq34jyuxypqbmg5tb3uojioop2w6y.ipfs.w3s.link/submittion_result.webp"
+    }
+  ],
+  [
+    {
+      "id": "18KdlQv2j6eVmCqDPrMS7byQvpebAQrIR",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiaokikrzw7wltvamupq2g6kmexiacdqrauwrpwit6t2ngd72ng6kq",
+      "optimized_direct_url": "https://bafybeic65hjh3v4oqzgwv33v2q7dbli4uwa7hcvvolajzlmswjzyy7eqju.ipfs.w3s.link/submittion_result.webp"
+    },
+    {
+      "id": "1av7-NsfQDu3ZKHWIcpFFxpAzV19TkBUE",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiapzzlsmnycxoa7esplhx3stirkjtujyypvm7bytyqyltoidgkd2q",
+      "optimized_direct_url": "https://bafybeihb2xf77jipjqrkgxv3rrnqgux4ah4rlwy47iei2fbwkllumlvrkq.ipfs.w3s.link/submittion_result_1.webp"
+    },
+    {
+      "id": "1QxlJPhw0Ln_nq7RRuSV_HgZY0S-if3uC",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreib33o5zq2fe3w5bewk66svf7dzl3uox5er7sjudica5m24mlhct4u",
+      "optimized_direct_url": "https://bafybeigrfvz2dernwiwhvyotrv5ln6es5gh2oqu6n4ooqe2gdqb5esd6mu.ipfs.w3s.link/submittion_result_2.webp"
+    },
+    {
+      "id": "1SvfZ8VRLDSfmeCb_9YIrRQV7mZeMzrdm",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreidxngb7g73xizr72jhllusiphpely73l6dkxhqypdqvespm5c37f4",
+      "optimized_direct_url": "https://bafybeidg3ugbxspcrz4hvnihnmqt2i3ukxzzrgtii6b2oetaxqrwshvx2y.ipfs.w3s.link/submittion_result_3.webp"
+    }
+  ],
+  [
+    {
+      "id": "1NOeknbToIDHnyDe_ZCLiAfygqAcOE6l_",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreidvm25fveedurbi6m2hh4oqur7qfhdzmqoa3oyrny2i6gii6bpyb4",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1tHcir0R_MecIlRJrXCJMN86SNW4BM-CP",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreie3lbkcmaikdj4jcs5jjsuial2mdalb7tvpjxmmea4alqseoentey",
+      "optimized_direct_url": "https://bafybeidei4ndcgeqfrdoclo5qprnl7dx4zg744ojm7z62mkugxummwjqiu.ipfs.w3s.link/submittion_result.webp"
+    },
+    {
+      "id": "1uMjQqF8Oj5yKDfbtQeWN45qT3Xauq44l",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreihemn3ahugpu7dzcjxxfrc2qi25nkjclavru3ss4jo6ef7ezf2a4m",
+      "optimized_direct_url": "https://bafybeigp3uvjl2beybpyt46ncxdmqknl2nvjtq53knbk2cfjcqm47htjza.ipfs.w3s.link/submittion_result_1.webp"
+    }
+  ],
+  [
+    {
+      "id": "10F_kY0v85U2qsAWXxhC9miv5lM_QMI9M",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreidux2ii2fi5d6mc3gul6evwimoepcdxqfo6ivcwywnfaqjf7ljedq",
+      "optimized_direct_url": "https://bafybeigmma6tr64ex4jmpeelnmepjp247hv26wcatobk5wbyzxp4kazijq.ipfs.w3s.link/submittion_result_2.webp"
+    },
+    {
+      "id": "1vFS1XMTUjcu9if-m1sKbr8n9PPMzUw5Z",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreignloo4rwnzuppzuivltaabl4h3yhadj3r5bofihdwobkwoovfkeq",
+      "optimized_direct_url": "https://bafybeigojhfvgnxicuc5r34at7z6c4jeg6zzrsmlbt2k35lqexdy2n7qvy.ipfs.w3s.link/submittion_result_3.webp"
+    },
+    {
+      "id": "13bjumU1kpV9dWjLSc21UsGqirQbvB9hb",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreihgmnhvrniu4cukqw5v5m4cgydaciwgkniwkrnjz7d5uwqlgj2nre",
+      "optimized_direct_url": "https://bafybeicnq74ubsfr6wpqpiuf7ivor7u7wy7cjiatc3toqya34xv2fcppnq.ipfs.w3s.link/submittion_result_4.webp"
+    },
+    {
+      "id": "14w9ye4TIPishcorcBKxD6C3C83Og0odr",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreibatyhfgnrnln5w7df7symrgih2udtga5gajlrytoxax5bfknn54i",
+      "optimized_direct_url": "https://bafybeidruh4oj2tvrfyyym5aylx2acszg4lcooivcejmnk75a4nndq6qcm.ipfs.w3s.link/submittion_result_5.webp"
+    }
+  ],
+  [
+    {
+      "id": "1-71UcCVUTjKCYEdRBNICwXsh6C4_GBfj",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreifcdzu5ijt3rqitncnjgecedrkvludfxcpts5o7hyw46vkeb27iqy",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1vdILKxfqQpm9G_FeopQphcZZLqFavIGg",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreifs7q7c6r3jsued35aj6lpeptdex3wgdjbl2nnx4zfwrscicpkrcq",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1TLXIhJcsM6GjvIr3-uxttUOqjqVSzrp6",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreic2bxwe55v2chmzfpo5wl3tq7eei4thv6rxfyhikg4l72agiarr2y",
+      "optimized_direct_url": "https://bafybeif6ay7edc4zqf26kst6gk67gcpp6yf4p2j27h76epqkchshflce7m.ipfs.w3s.link/submittion_result.webp"
+    },
+    {
+      "id": "1Usgac1Goo6XFkKupeIUszvy8tAECtGVn",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreifp7iow2zpeuat62nsml4gsupplmnwrv2vqfe3amholzncdgjwnca",
+      "optimized_direct_url": "https://bafybeifczrbnett256fxtet2wwwmpgggdxk2gaoed3boe5zvrdz3e7osaq.ipfs.w3s.link/submittion_result_1.webp"
+    }
+  ],
+  [
+    {
+      "id": "1a02uMqBe6NrQzGmtmfV-QqNHegN1vaJD",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiepbyv2mylefjbm7yybblnia53ac3p5oh3tdsxzuz6kvjkawhcan4",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1EQf003FGbdcw4SqZuNENUeizwL6f1WSp",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreidhokg473b6b3velv5uvxjweayjktjfmljtbv55i6l3fqwdz5caiy",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1diS_3XNjS-UAbc6G8rcFfxk0QKBiVRi2",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiexyky4nxaw5wtydt7oxw56ciger2fvnttehojh4ydtkxbqselpwi",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1fMwOLDee7ZHZKxyENeqpzx9giNDMxoMy",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreigsbiypodecy3oevwupx6ftvinhusbz3uintt4yzypku75676ptl4",
+      "optimized_direct_url": "https://bafybeidgnx5fbevc2uvz4i5dulbbdeperj2pvysas4gpqssvu6iscfbrky.ipfs.w3s.link/submittion_result.webp"
+    }
+  ],
+  [
+    {
+      "id": "1ILpPM2zpNLRGQqmXf-rtFEnFDFEnpb1H",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreifzpeushlawip4uqbfcm5hcjo44ozs3s7ptjhci3nccrs37gqg5fe",
+      "optimized_direct_url": "https://bafybeifbmdeo4wwiiwvlezkz23y4btphzclxr7bsgs4mw4rqbe5ci56awe.ipfs.w3s.link/submittion_result.webp"
+    },
+    {
+      "id": "1LMxkE-3F0Q3VK2CG92fFwwJRfD3zk6ch",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreignk72fv5cmszptayfdnzofrj36l4ihf2t4ifs6nmlounbkoomkdm",
+      "optimized_direct_url": "https://bafybeidyhqy3bd4presbkgcl3jfbjnxda44tthar2o4aauaqy7rxkxwxny.ipfs.w3s.link/submittion_result_1.webp"
+    },
+    {
+      "id": "1RuPq_nHrIW2OW-TlPx3HMdUUkaOm729V",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiaee75vv3kywdin7miffrrarkf3qi7trf2mlgq74ftymnxv3viyim",
+      "optimized_direct_url": "https://bafybeih4llndgmvst43q4yub5ms2ndexfyqpe2yxqvtvcitqtuln36fgce.ipfs.w3s.link/submittion_result_2.webp"
+    }
+  ],
+  [
+    {
+      "id": "196-WtYfmMmsjHwb3KCs8UZN-zDR0zSkp",
+      "logo_direct_url": "https://bafybeiezf3dgi5ue22qy6htnibije7u72wz6qs7iwuul4kto5fqqrewbqi.ipfs.w3s.link/ReVancedColorsLogo%20-%20Static%20Nebula.svg",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1jQbn_9nobk-LhxCJGwSaYZWGGKqjMLTt",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreidyi63o7zu6qvzkgb3gxpew72mnd3csbophtsdq3hy32bzdzkwzvy",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1DF4gfHbyRNkQWydwvkU2nZv4faNK09vI",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreihenxz3uoovqruqeltnksymg6ky3doif4zs4td5kj7ry3ozj7lb54",
+      "optimized_direct_url": null
+    }
+  ],
+  [
+    {
+      "id": "1PWtBZdhpG4X6bNUASwimid1h3ag7CKa0",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreifhfe7lpidoqq3tdfwd6nb2d7pzp4gf5iahwqqs5f7q2wke6gbmjq",
+      "optimized_direct_url": "https://bafybeibywc2i6erkxa5cwazfmjlxsxrwopnmwqqgy223sr7e4uqtcb7wpy.ipfs.w3s.link/submittion_result.webp"
+    },
+    {
+      "id": "1lcepHs1SIsNcrXSBxlB2Xxck8dpc_b06",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreihjduvajyvin5pppgztfqgc2qn2rmq4hleduio5n5uxs5lytv7kvm",
+      "optimized_direct_url": "https://bafybeicafr5rvztg2f7ag7a5caw7odsj6g4c252n2ericnoqhrsqpr4dgm.ipfs.w3s.link/submittion_result_1.webp"
+    },
+    {
+      "id": "1mPTBBsd1woHelDlQZJyg_lulIdcVHuLf",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiegvqhcuwaqlsy5dutuk2gqv3favubquaxgpmirdm6t5rankewwiq",
+      "optimized_direct_url": "https://bafybeih7km7dnfu6soqn27455kn4paxpf7dufgijt7jfses5n5glbuwv5e.ipfs.w3s.link/submittion_result_2.webp"
+    },
+    {
+      "id": "1aZ5gG26ey60rrQ4Q3DKqyVnXRNizWmCu",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreidxtmsebw7fpxp7he2dtttqgc75a7uihesvuydxlgdlxdqce24hxy",
+      "optimized_direct_url": "https://bafybeifvpgg4ect5xaqfyxwdktxgwdqg5jdb4iesdxi4ms7pctlf7sju6i.ipfs.w3s.link/submittion_result_3.webp"
+    }
+  ],
+  [
+    {
+      "id": "1iT-iee3jcnJtz-v6BSLEcqJNK8p-E45n",
+      "logo_direct_url": "https://w3s.link/ipfs/bafkreiazyzikreodaydx4u23mxeetokrfeldqjutam7pcrpwwe43ua5a6m",
+      "optimized_direct_url": "https://bafybeiccy6kehgcg2wizbvgcmbiptpq5mjeruhcjn3bryhqqcohjqjrm6u.ipfs.w3s.link/submittion_result.webp"
+    }
+  ]
+]
