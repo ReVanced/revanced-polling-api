@@ -11,21 +11,22 @@ config: dict = load_config()
 
 @router.get('/logos', response_model=ItemModel, tags=['Logos'])
 @cache(config['cache']['expire'])
-async def logos(request: Request, response: Response) -> dict:
+async def logos(request: Request, response: Response) -> list:
     """Get logos.
 
     Returns:
         json: list of logos
-            =>  username: {
-                    logos: [
+            =>  [
+                    [
                         {
                             id,
-                            filename,
-                            gdrive_direct_url
+                            logo_direct_url,
+                            optimized_direct_url
                         },
                         ...
                     ]
-                }
+                    ...
+                ]
     """
     
     async with aiofiles.open('app/data/processed.json', 'r') as json_file:
