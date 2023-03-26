@@ -21,14 +21,9 @@ for key in db.scan_iter("*"):
                 votes[entry["cid"]] = 1
 
 raw_votes: str = pformat(votes)
-sorted_votes: str = pformat(sorted(votes))
+sorted_votes: str = pformat(sorted(votes, key=votes.get, reverse=True))
 
-text: list = [
-        'Raw votes:\n\n',
-        raw_votes,
-        '\n\nSorted votes:\n\n',
-        sorted_votes
-]
+text: list = ["Raw votes:\n\n", raw_votes, "\n\nSorted votes:\n\n", sorted_votes]
 
 with open("votes.txt", "w") as f:
     f.writelines(text)
@@ -36,22 +31,18 @@ with open("votes.txt", "w") as f:
 payload: dict = {
     "description": "ReVanced Poll Results",
     "sections": [
+        {"name": "Raw Votes", "syntax": "autodetect", "contents": raw_votes},
         {
-            "name": "Raw Votes",
+            "name": "Sorted Votes (higher first)",
             "syntax": "autodetect",
-            "contents": raw_votes
+            "contents": sorted_votes,
         },
-        {
-            "name": "Sorted Votes",
-            "syntax": "autodetect",
-            "contents": sorted_votes
-        }
-    ]
+    ],
 }
 
 headers = {
     "Content-Type": "application/json",
-    "X-Auth-Token": os.environ["PASTE_EE_KEY"]
+    "X-Auth-Token": os.environ["PASTE_EE_KEY"],
 }
 
 response: dict = requests.post(paste_url, json=payload, headers=headers).json()
