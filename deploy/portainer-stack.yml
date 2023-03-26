@@ -17,6 +17,7 @@ services:
     image: ghcr.io/alexandreteles/revanced-releases-api:latest
     environment:
       - GITHUB_TOKEN=YOUR_GITHUB_TOKEN
+      - PASTE_EE_KEY=YOUR_PASTE_EE_KEY
       - REDIS_URL=revanced-releases-api-redis
       - REDIS_PORT=6379
       - HYPERCORN_HOST=0.0.0.0
