@@ -43,4 +43,4 @@ database = 2
 database = 3
 
 [auth]
-access_token_expires = 300
+access_token_expires = 600

@@ -19,16 +19,21 @@ config: dict = toml.load("config.toml")
 
 # Enable sentry logging
 
-sentry_sdk.init(os.environ['SENTRY_DSN'], traces_sample_rate=1.0, integrations=[
+sentry_sdk.init(
+    os.environ["SENTRY_DSN"],
+    traces_sample_rate=1.0,
+    integrations=[
         RedisIntegration(),
         HttpxIntegration(),
         GnuBacktraceIntegration(),
-    ],)
+    ],
+)
 
-LOG_LEVEL: Any = logging.getLevelName(config['logging']['level'])
-JSON_LOGS: bool = config['logging']['json_logs']
+LOG_LEVEL: Any = logging.getLevelName(config["logging"]["level"])
+JSON_LOGS: bool = config["logging"]["json_logs"]
 WORKERS: int = int(cpu_count() + 1)
 BIND: str = f'{os.environ.get("HYPERCORN_HOST")}:{os.environ.get("HYPERCORN_PORT")}'
+
 
 class InterceptHandler(logging.Handler):
     """Intercept logs and forward them to Loguru.
@@ -36,14 +41,15 @@ class InterceptHandler(logging.Handler):
     Args:
         logging.Handler (Filterer): Handler to filter logs
     """
+
     def emit(self, record: logging.LogRecord) -> None:
         """Emit a log record."""
-        
+
         # Get corresponding Loguru level if it exists
         level: str | int
         frame: FrameType
         depth: int
-        
+
         try:
             level = logger.level(record.levelname).name
         except ValueError:
@@ -55,7 +61,9 @@ class InterceptHandler(logging.Handler):
             frame = frame.f_back
             depth += 1
 
-        logger.opt(depth=depth, exception=record.exc_info).log(level, record.getMessage())
+        logger.opt(depth=depth, exception=record.exc_info).log(
+            level, record.getMessage()
+        )
 
 
 class StubbedGunicornLogger(Logger):
@@ -64,16 +72,17 @@ class StubbedGunicornLogger(Logger):
     Args:
         Logger (object): Gunicon logger class
     """
+
     def setup(self, cfg) -> None:
         """Setup logger."""
-        
+
         handler: logging.NullHandler = logging.NullHandler()
         self.error_logger: Logger = logging.getLogger("gunicorn.error")
-        
+
         self.error_logger.addHandler(handler)
-        
+
         self.access_logger: Logger = logging.getLogger("gunicorn.access")
-        
+
         self.access_logger.addHandler(handler)
         self.error_logger.setLevel(LOG_LEVEL)
         self.access_logger.setLevel(LOG_LEVEL)
@@ -100,7 +109,8 @@ class StandaloneApplication(BaseApplication):
     def load_config(self) -> None:
         """Load Gunicorn configuration."""
         config: dict = {
-            key: value for key, value in self.options.items()
+            key: value
+            for key, value in self.options.items()
             if key in self.cfg.settings and value is not None
         }
         for key, value in config.items():
@@ -115,7 +125,7 @@ class StandaloneApplication(BaseApplication):
         return self.application
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     intercept_handler = InterceptHandler()
     logging.root.setLevel(LOG_LEVEL)
 
@@ -143,6 +153,8 @@ if __name__ == '__main__':
         "worker_class": "uvicorn.workers.UvicornWorker",
         "logger_class": StubbedGunicornLogger,
         "preload": True,
+        "forwarded_allow_ips": "*",
+        "proxy_allow_ips": "*",
     }
 
     StandaloneApplication(app, options).run()
